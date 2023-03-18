@@ -32,3 +32,18 @@
 </section>
 
 
+<section>
+<p>03.18.2023: "Basic JavaScript" 21 - 30</p>
+<ul>
+  <li>Compound Assignment With Augmented Addition</li>
+  <li>Compound Assignment With Augmented Subtraction</li>
+  <li>Compound Assignment With Augmented Multiplication</li>
+  <li>Compound Assignment With Augmented Division</li>
+  <li>Escaping Literal Quotes in Strings</li>
+  <li>Quoting Strings with Single Quotes</li>
+  <li>Escape Sequences in Strings</li>
+  <li>Concatenating Strings with Plus Operator</li>
+  <li>Concatenating Strings with the Plus Equals Operator</li>
+  <li>Constructing Strings with Variables</li>
+</ul>
+</section>
