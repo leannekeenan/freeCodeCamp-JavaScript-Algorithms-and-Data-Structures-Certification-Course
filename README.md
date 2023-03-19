@@ -47,3 +47,20 @@
   <li>Constructing Strings with Variables</li>
 </ul>
 </section>
+
+
+<section>
+<p>03.19.2023: "Basic JavaScript" 31 - 40</p>
+<ul>
+  <li>Appending Variables to Strings</li>
+  <li>Find the Length of a String</li>
+  <li>Use Bracket Notation to Find the First Character in a String</li>
+  <li>Understand String Immutability</li>
+  <li>Use Bracket Notation to Find the Nth Character in a String</li>
+  <li>Use Bracket Notation to Find the Last Character in a String</li>
+  <li>Use Bracket Notation to Find the Nth-to-Last Character in a String</li>
+  <li>Word Blanks</li>
+  <li>Store Multiple Values in one Variable using JavaScript Arrays</li>
+  <li>Nest one Array within Another Array</li>
+</ul>
+</section>
