@@ -67,7 +67,7 @@
 
 
 <section>
-<p>03.20.2023: "Basic JavaScript" 41 - 40</p>
+<p>03.20.2023: "Basic JavaScript" 41 - 50</p>
 <ul>
   <li>Access Array Data with Indexes</li>
   <li>Modify Array Data With Indexes</li>
