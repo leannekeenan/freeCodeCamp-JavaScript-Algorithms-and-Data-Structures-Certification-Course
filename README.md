@@ -64,3 +64,20 @@
   <li>Nest one Array within Another Array</li>
 </ul>
 </section>
+
+
+<section>
+<p>03.20.2023: "Basic JavaScript" 41 - 40</p>
+<ul>
+  <li>Access Array Data with Indexes</li>
+  <li>Modify Array Data With Indexes</li>
+  <li>Access Multi-Dimensional Arrays With Indexes</li>
+  <li>Manipulate Arrays With push Method</li>
+  <li>Manipulate Arrays With pop Method</li>
+  <li>Manipulate Arrays With shift Method</li>
+  <li>Manipulate Arrays With unshift Method</li>
+  <li>Shopping List</li>
+  <li>Write Reusable JavaScript with Functions</li>
+  <li>Passing Values to Functions with Arguments</li>
+</ul>
+</section>
