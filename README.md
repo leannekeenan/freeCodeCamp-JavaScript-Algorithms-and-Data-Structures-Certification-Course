@@ -81,3 +81,20 @@
   <li>Passing Values to Functions with Arguments</li>
 </ul>
 </section>
+
+
+<section>
+<p>03.22.2023: "Basic JavaScript" 51 - 60</p>
+<ul>
+  <li>Return a Value from a Function with Return</li>
+  <li>Global Scope and Functions</li>
+  <li>Local Scope and Functions</li>
+  <li>Global vs. Local Scope in Functions</li>
+  <li>Understanding Undefined Value returned from a Function</li>
+  <li>Assignment with a Returned Value</li>
+  <li>Stand in Line</li>
+  <liUnderstanding Boolean Values></li>
+  <li>Use Conditional Logic with If Statements</li>
+  <li>Comparison with the Equality Operator</li>
+</ul>
+</section>
