@@ -98,3 +98,20 @@
   <li>Comparison with the Equality Operator</li>
 </ul>
 </section>
+
+
+<section>
+<p>03.23.2023: "Basic JavaScript" 61 - 70</p>
+<ul>
+  <li>Comparison with the Strict Equality Operator</li>
+  <li>Practice comparing different values</li>
+  <li>Comparison with the Inequality Operator</li>
+  <li>Comparison with the Strict Inequality Operator</li>
+  <li>Comparison with the Greater Than Operator</li>
+  <li>Comparison with the Greater Than Or Equal To Operator</li>
+  <li>Comparison with the Less Than Operator</li>
+  <li>Comparison with the Less Than Or Equal To Operator</li>
+  <li>Comparisons with the Logical And Operator</li>
+  <li>Comparisons with the Logical Or Operator</li>
+</ul>
+</section>
