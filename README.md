@@ -115,3 +115,20 @@
   <li>Comparisons with the Logical Or Operator</li>
 </ul>
 </section>
+
+
+<section>
+<p>03.24.2023: "Basic JavaScript" 71 - 80</p>
+<ul>
+  <li>Introducing Else Statements</li>
+  <li>Introducing Else If Statements</li>
+  <li>Logical Order in If Else Statements</li>
+  <li>Chaining If Else Statements</li>
+  <li>Golf Code</li>
+  <li>Selecting from Many Options with Switch Statements</li>
+  <li>Adding a Default Option in Switch Statements</li>
+  <li>Multiple Identical Options in Switch Statements</li>
+  <li>Replacing If Else Chains with Switch</li>
+  <li>Returning Boolean Values from Functions</li>
+</ul>
+</section>
