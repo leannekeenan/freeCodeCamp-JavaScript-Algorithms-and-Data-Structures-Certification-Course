@@ -132,3 +132,22 @@
   <li>Returning Boolean Values from Functions</li>
 </ul>
 </section>
+
+
+
+
+<section>
+<p>03.24.2023: "Basic JavaScript" 71 - 80</p>
+<ul>
+  <li>Return Early Pattern for Functions</li>
+  <li>Counting Cards</li>
+  <li>Build JavaScript Objects</li>
+  <li>Accessing Object Properties with Dot Notation</li>
+  <li>Accessing Object Properties with Bracket Notation</li>
+  <li>Accessing Object Properties with Variables</li>
+  <li>Updating Object Properties</li>
+  <li>Add New Properties to a JavaScript Object</li>
+  <li>Delete Properties from a JavaScript Object</li>
+  <li>Using Objects for Lookups</li>
+</ul>
+</section>
