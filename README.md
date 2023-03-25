@@ -137,7 +137,7 @@
 
 
 <section>
-<p>03.24.2023: "Basic JavaScript" 71 - 80</p>
+<p>03.25.2023: "Basic JavaScript" 81 - 90</p>
 <ul>
   <li>Return Early Pattern for Functions</li>
   <li>Counting Cards</li>
