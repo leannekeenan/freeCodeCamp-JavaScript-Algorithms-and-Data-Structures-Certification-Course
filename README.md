@@ -155,7 +155,7 @@
 
 
 <section>
-<p>03.25.2023: "Basic JavaScript" 81 - 90</p>
+<p>03.26.2023: "Basic JavaScript" 91 - 100</p>
 <ul>
   <li>Testing Objects for Properties</li>
   <li>Manipulating Complex Objects</li>
