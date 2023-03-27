@@ -151,3 +151,21 @@
   <li>Using Objects for Lookups</li>
 </ul>
 </section>
+
+
+
+<section>
+<p>03.25.2023: "Basic JavaScript" 81 - 90</p>
+<ul>
+  <li>Testing Objects for Properties</li>
+  <li>Manipulating Complex Objects</li>
+  <li>Accessing Nested Objects</li>
+  <li>Accessing Nested Arrays</li>
+  <li>Record Collection</li>
+  <li>Iterate with JavaScript While Loops</li>
+  <li>Iterate with JavaScript For Loops</li>
+  <li>Iterate Odd Numbers With a For Loop</li>
+  <li>Count Backwards With a For Loop</li>
+  <li>Iterate Through an Array with a For Loop</li>
+</ul>
+</section>
