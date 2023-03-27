@@ -1,4 +1,7 @@
-# freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification-Course
+<h1 align="center">freeCodeCamp JavaScript Algorithms and Data Structures Certification Course</h1>
+
+<h2>Part I: Basic JavaScript</h2>
+
 <section>
 <p>03.16.2023: "Basic JavaScript" 1 - 10</p>
 <ul>
@@ -167,5 +170,26 @@
   <li>Iterate Odd Numbers With a For Loop</li>
   <li>Count Backwards With a For Loop</li>
   <li>Iterate Through an Array with a For Loop</li>
+</ul>
+</section>
+
+
+
+<section>
+<p>03.27.2023: "Basic JavaScript" 101 - 113</p>
+<ul>
+  <li>Nesting For Loops</li>
+  <li>Iterate with JavaScript Do...While Loops</li>
+  <li>Replace Loops using Recursion</li>
+  <li>Profile Lookup</li>
+  <li>Generate Random Fractions with JavaScript</li>
+  <li>Generate Random Whole Numbers with JavaScript</li>
+  <li>Generate Random Whole Numbers within a Range</li>
+  <li>Use the parseInt Function</li>
+  <li>Use the parseInt Function with a Radix</li>
+  <li>Use the Conditional (Ternary) Operator</li>
+  <li>Use Multiple Conditional (Ternary) Operators</li>
+  <li>Use Recursion to Create a Countdown</li>
+  <li>Use Recursion to Create a Range of Numbers</li>
 </ul>
 </section>
