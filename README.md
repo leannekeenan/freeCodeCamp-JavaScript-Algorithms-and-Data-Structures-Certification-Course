@@ -193,3 +193,23 @@
   <li>Use Recursion to Create a Range of Numbers</li>
 </ul>
 </section>
+
+
+<h2>Part II: ES6</h2>
+
+
+<section>
+<p>03.28.2023: "ES6" 1 - 10</p>
+<ul>
+  <li>Compare Scopes of the var and let Keywords</li>
+  <li>Mutate an Array Declared with const</li>
+  <li>Prevent Object Mutation</li>
+  <li>Use Arrow Functions to Write Concise Anonymous Functions</li>
+  <li>Write Arrow Functions with Parameters</li>
+  <li>Set Default Parameters for Your Functions</li>
+  <li>Use the Rest Parameter with Function Parameters</li>
+  <li>Use the Spread Operator to Evaluate Arrays In-Place</li>
+  <li>Use Destructuring Assignment to Extract Values from Objects</li>
+  <li>Use Destructuring Assignment to Assign Variables from Objects</li>
+</ul>
+</section>
