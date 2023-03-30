@@ -213,3 +213,21 @@
   <li>Use Destructuring Assignment to Assign Variables from Objects</li>
 </ul>
 </section>
+
+
+<section>
+  <p>03.30.2023: "ES6" 11 - 20</p>
+  <ul>
+    <li>Use Destructuring Assignment to Assign Variables from Nested Objects</li>
+    <li>Use Destructuring Assignment to Assign Variables from Arrays</li>
+    <li>Destructuring via rest elements</li>
+    <li>Use Destructuring Assignment to Pass an Object as a Function's Parameters</li>
+    <li>Create Strings using Template Literals</li>
+    <li>Write Concise Object Literal Declarations Using Object Property Shorthand</li>
+    <li>Write Concise Declarative Functions with ES6</li>
+    <li>Use class Syntax to Define a Constructor Function</li>
+    <li>Use getters and setters to Control Access to an Object</li>
+    <li>Create a Module Script</li>
+  </ul>
+  
+</section>
