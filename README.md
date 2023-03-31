@@ -229,5 +229,22 @@
     <li>Use getters and setters to Control Access to an Object</li>
     <li>Create a Module Script</li>
   </ul>
-  
 </section>
+
+
+
+<section>
+  <p>03.30.2023: "ES6" 11 - 29</p>
+  <ul>
+    <li>Use export to Share a Code Block</li>
+    <li>Reuse JavaScript Code Using import</li>
+    <li>Use * to Import Everything from a File</li>
+    <li>Create an Export Fallback with export default</li>
+    <li>Import a Default Export</li>
+    <li>Create a JavaScript Promise</li>
+    <li>Complete a Promise with resolve and reject</li>
+    <li>Handle a Fulfilled Promise with then</li>
+    <li>Handle a Rejected Promise with catch</li>
+  </ul>
+</section>
+
